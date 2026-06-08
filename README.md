@@ -1,4 +1,4 @@
-# Stimulation-Evoked Cortical Responses in Severe Chronic Stroke
+# Analysis scripts for: Stimulation-Evoked Cortical Responses in Severe Chronic Stroke
 
 Analysis scripts for: Stimulation-evoked cortical responses track sensorimotor reorganization in severe chronic stroke.
 
