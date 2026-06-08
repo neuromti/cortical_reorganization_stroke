@@ -1,0 +1,11 @@
+mne
+pyxdf
+pycircstat
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+lmfit
+tqdm
+autoreject
